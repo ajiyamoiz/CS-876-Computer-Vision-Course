@@ -1,2 +1,2 @@
 # CS-876-Computer-Vision-Course
-CS-876 Computer Vission course assignments from MS Electrical Engineering (NUST)
+CS-876 Computer Vission course assignments for MS Electrical Engineering (NUST)
